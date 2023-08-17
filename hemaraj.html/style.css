@@ -1,0 +1,61 @@
+.bii
+{
+
+ background: url("images/ban.png") no-repeat;   
+height:400px;
+width:100%;
+background-position: center;
+}
+.bii h1{
+
+color:#fff;
+background:black;
+width:70%;
+opacity: 0.5;
+margin-left:10px;
+
+}
+
+
+
+.gallary-sec {
+	height: 382px;
+	background: url(images/wbg.png) no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+.gallery {
+	background: #f4f3f6;
+margin-left:100px;
+max-width:100%;
+	color: #2b2b2b;
+	border-radius: 0px 0px 10px 10px;
+	padding-top:40px;
+
+}
+.gallery img {
+	width: 100%;
+	border-radius: 10px 10px 0px 0px;
+}
+.gallery h2 {
+	font-size: 24px;
+	font-family: roboto regular;
+	text-transform: uppercase;
+	padding: 14px 0px;
+	margin-top: 0px;
+	text-align: center;
+}
+
+
+
+
+
+.fsn
+{
+list-style: none
+    ;
+    
+}
